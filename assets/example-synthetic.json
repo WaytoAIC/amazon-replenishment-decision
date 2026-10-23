@@ -1,0 +1,94 @@
+{
+  "mode": "scenario",
+  "initial_stock": 60,
+  "forecast": [
+    {
+      "date": "2030-01-01",
+      "units": 5
+    },
+    {
+      "date": "2030-01-02",
+      "units": 5
+    },
+    {
+      "date": "2030-01-03",
+      "units": 5
+    },
+    {
+      "date": "2030-01-04",
+      "units": 5
+    },
+    {
+      "date": "2030-01-05",
+      "units": 5
+    },
+    {
+      "date": "2030-01-06",
+      "units": 5
+    },
+    {
+      "date": "2030-01-07",
+      "units": 5
+    },
+    {
+      "date": "2030-01-08",
+      "units": 5
+    },
+    {
+      "date": "2030-01-09",
+      "units": 5
+    },
+    {
+      "date": "2030-01-10",
+      "units": 5
+    },
+    {
+      "date": "2030-01-11",
+      "units": 5
+    },
+    {
+      "date": "2030-01-12",
+      "units": 5
+    },
+    {
+      "date": "2030-01-13",
+      "units": 5
+    },
+    {
+      "date": "2030-01-14",
+      "units": 5
+    },
+    {
+      "date": "2030-01-15",
+      "units": 5
+    },
+    {
+      "date": "2030-01-16",
+      "units": 5
+    },
+    {
+      "date": "2030-01-17",
+      "units": 5
+    },
+    {
+      "date": "2030-01-18",
+      "units": 5
+    },
+    {
+      "date": "2030-01-19",
+      "units": 5
+    },
+    {
+      "date": "2030-01-20",
+      "units": 5
+    }
+  ],
+  "supplies": [
+    {
+      "id": "SYNTHETIC-BATCH-A",
+      "remaining_qty": 50,
+      "sellable_date": "2030-01-10",
+      "date_basis": "assumed"
+    }
+  ]
+}

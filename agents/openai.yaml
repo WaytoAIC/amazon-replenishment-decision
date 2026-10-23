@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目补货决策"
+  short_description: "仅在当前项目分析断货与滞销风险，解释归因和计算，形成四角色协同决策"
+  default_prompt: "使用 $project-replenishment-decision 分析本项目商品的日销变化、断货与滞销风险，展示计算和归因，列出运营、供应链、物流、老板的动作与期限。"
